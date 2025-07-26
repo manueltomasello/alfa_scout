@@ -1,0 +1,24 @@
+{
+  "@@locale": "it",
+  "appTitle": "AlfaScout",
+  "@appTitle": { "description": "Titolo dell'applicazione" },
+  "login": "Accedi",
+  "@login": { "description": "Testo del pulsante di login" },
+  "register": "Registrati",
+  "@register": { "description": "Testo del pulsante di registrazione" },
+  "email": "Email",
+  "@email": { "description": "Etichetta per l'inserimento dell'email" },
+  "password": "Password",
+  "@password": { "description": "Etichetta per l'inserimento della password" },
+  "logout": "Esci",
+  "@logout": { "description": "Testo del pulsante di logout" },
+
+  "profileSaved": "Profilo salvato",
+  "@profileSaved": { "description": "Messaggio mostrato quando il profilo è stato salvato" },
+  "profile": "Profilo",
+  "@profile": { "description": "Titolo della schermata profilo" },
+  "plate": "Targa",
+  "@plate": { "description": "Etichetta per la targa" },
+  "save": "Salva",
+  "@save": { "description": "Testo del pulsante di salvataggio" }
+}

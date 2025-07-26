@@ -1,0 +1,24 @@
+{
+  "@@locale": "en",
+  "appTitle": "AlfaScout",
+  "@appTitle": { "description": "The title of the application" },
+  "login": "Login",
+  "@login": { "description": "Login button text" },
+  "register": "Register",
+  "@register": { "description": "Register button text" },
+  "email": "Email",
+  "@email": { "description": "Label for email input" },
+  "password": "Password",
+  "@password": { "description": "Label for password input" },
+  "logout": "Logout",
+  "@logout": { "description": "Logout button text" },
+
+  "profileSaved": "Profile saved",
+  "@profileSaved": { "description": "Message shown when profile is saved" },
+  "profile": "Profile",
+  "@profile": { "description": "Title of the profile screen" },
+  "plate": "License plate",
+  "@plate": { "description": "Label for license plate field" },
+  "save": "Save",
+  "@save": { "description": "Save button text" }
+}

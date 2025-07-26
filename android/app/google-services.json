@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "327096611222",
+    "project_id": "alfascout-b8502",
+    "storage_bucket": "alfascout-b8502.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327096611222:android:179519bbccf71fcfc76db7",
+        "android_client_info": {
+          "package_name": "com.example.alfa_scout"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmmrGs3dd9QhIPa8dm-w2zWNl0A5RWcQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
